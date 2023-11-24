@@ -1,0 +1,46 @@
+@options
+@packages
+-encoding
+'UTF-8'
+-protected
+-source
+'19'
+-sourcepath
+'D:/Programacion/interfazConversiones/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2023. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'D:/Programacion/interfazConversiones/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'interfazConversiones 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'interfazConversiones 1.0-SNAPSHOT API'
+com.mycompany.interfazconversiones
+D:\Programacion\interfazConversiones\src\main\java = 1690377192000
+D:\Programacion\interfazConversiones\target\site\apidocs\element-list = 1690898668000
+D:\Programacion\interfazConversiones\target\site\apidocs\serialized-form.html = 1690898668000
+D:\Programacion\interfazConversiones\target\site\apidocs\overview-tree.html = 1690898668000
+D:\Programacion\interfazConversiones\target\site\apidocs\allclasses-index.html = 1690898668000
+D:\Programacion\interfazConversiones\target\site\apidocs\allpackages-index.html = 1690898668000
+D:\Programacion\interfazConversiones\target\site\apidocs\module-search-index.js = 1690898668000
+D:\Programacion\interfazConversiones\target\site\apidocs\package-search-index.js = 1690898668000
+D:\Programacion\interfazConversiones\target\site\apidocs\type-search-index.js = 1690898668000
+D:\Programacion\interfazConversiones\target\site\apidocs\member-search-index.js = 1690898668000
+D:\Programacion\interfazConversiones\target\site\apidocs\tag-search-index.js = 1690898668000
+D:\Programacion\interfazConversiones\target\site\apidocs\index-all.html = 1690898668000
+D:\Programacion\interfazConversiones\target\site\apidocs\search.html = 1690898668000
+D:\Programacion\interfazConversiones\target\site\apidocs\index.html = 1690898668000
+D:\Programacion\interfazConversiones\target\site\apidocs\help-doc.html = 1690898668000
+D:\Programacion\interfazConversiones\target\site\apidocs\stylesheet.css = 1690898668000
+D:\Programacion\interfazConversiones\target\site\apidocs\script.js = 1690898668000
+D:\Programacion\interfazConversiones\target\site\apidocs\copy.svg = 1690898668000
+D:\Programacion\interfazConversiones\target\site\apidocs\search.js = 1690898668000
+D:\Programacion\interfazConversiones\target\site\apidocs\search-page.js = 1690898668000
+D:\Programacion\interfazConversiones\target\site\apidocs\jquery-ui.overrides.css = 1690898668000
